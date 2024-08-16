@@ -1,6 +1,6 @@
 # S&P500 Trading Algorithm
-<a href="https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_7ed6443eaa33bc5645d3673d069a54bc.html" rel="Open in QuantConnect">Open in QuantConnect</a>
 <h4>Blake Rayvid - <a href=https://github.com/brayvid>https://github.com/brayvid</a></h4>
+<a href="https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_7ed6443eaa33bc5645d3673d069a54bc.html" rel="Open in QuantConnect">Open in QuantConnect</a>
 
 ## Overview
 
@@ -31,3 +31,5 @@ The project began with a trading algorithm designed to predict daily market move
 ### Final Results
 
 After backtesting the strategy over the period from January 2010 to June 2024 using the QuantConnect platform, the SPXL strategy demonstrated robust performance with a CAGR of 18% and an alpha of +0.028. The strategy successfully grew an initial $100,000 investment into $1.15 million, highlighting its effectiveness in navigating various market conditions while maintaining a strong focus on risk management. The algorithm’s ability to dynamically adjust its exposure and protect against large drawdowns was key to its success.
+
+<img src='spxl_backtest.png'>
