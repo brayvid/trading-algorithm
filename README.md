@@ -32,4 +32,6 @@ The project began with a trading algorithm designed to predict daily market move
 
 After backtesting the strategy over the period from January 2010 to June 2024 using the QuantConnect platform, the SPXL strategy demonstrated robust performance with a CAGR of 18% and an alpha of +0.028. The strategy successfully grew an initial $100,000 investment into $1.15 million, highlighting its effectiveness in navigating various market conditions while maintaining a strong focus on risk management. The algorithm’s ability to dynamically adjust its exposure and protect against large drawdowns was key to its success.
 
-<img src='spxl_backtest.png'>
+<img width=100% src='spxl_backtest.png'>
+
+<img width=100% src='benchmark.png'>
