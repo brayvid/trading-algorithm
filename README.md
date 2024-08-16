@@ -1,49 +1,33 @@
-# S&P500 Forecasting with Machine Learning
+# S&P500 Trading Algorithm
 <a href="https://colab.research.google.com/github/brayvid/sp500-forecast/blob/main/sp500_forecast.ipynb" rel="Open in Colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" /></a>
 <h4>Blake Rayvid - <a href=https://github.com/brayvid>https://github.com/brayvid</a></h4>
 
-## Classification targets
-- Next day close higher or lower than today
-- Next day close +1.5% higher than today or lower
-  
-## Models
-- Random Forest Classifier
-- Gradient Boosting Classifier
-- Multilayer Perceptron NN
+## Overview
 
-## Basic features
-- Open, High, Low, Close
-- Volume
+This project represents the development and iterative refinement of a trading algorithm aimed at maximizing returns while effectively managing risk. The primary focus is on trading leveraged ETFs, specifically SPXL, using a combination of machine learning models, technical indicators, and dynamic risk management strategies. After extensive backtesting over the period from 2010 to 2024, the algorithm was able to achieve a Compound Annual Growth Rate (CAGR) of 19%, turning an initial investment of $100,000 into over $1 million.
 
-## Economic features
-- Unemployment rate
-- Consumer price index
-- Gross domestic product
-- Jobless claims
-- 10Y treasury yield
-- Federal funds rate
-- Corporate bond yield spread
-- VIX index
-- Crude oil price
-- Consumer confidence index
-- Retail sales
-- Housing starts
-- Industrial production index
+## Development Process
 
-## Technical features
-- Close ratio - (vs 2,5,60,250,1000 day MA)
-- Momentum trend
-- SMA-50,200
-- EMA-50,200
-- RSI-14
-- MACD
-- Bollinger bands
+### Initial Strategy
 
-## Lagged features (1,5,10 day)
-- Close
-- Volume
-- RSI-14
+The project began with a trading algorithm designed to predict daily market movements using the S&P 500 ETF (SPY). The initial strategy employed a GradientBoostingClassifier, utilizing a variety of features including price ratios, trends, and technical indicators such as short-term and long-term Simple Moving Averages (SMA). The algorithm aimed to predict whether SPY would move up or down and to execute trades accordingly. However, this initial approach struggled to consistently outperform the market benchmark.
 
-## Interaction features
-- Volume * SMA50
-- CPI * RSI14
+### Refinements and Enhancements
+
+1. **Feature Engineering and Model Selection:**
+   - Various machine learning models were tested, including enhanced feature engineering techniques, to increase predictive power.
+   - Despite extensive efforts, many models underperformed during volatile market conditions or in comparison to a simple buy-and-hold strategy.
+
+2. **Leveraged ETFs and Risk Management:**
+   - The focus shifted from SPY to the leveraged ETF SPXL, which offers higher potential returns but also increases exposure to risk.
+   - To address the increased volatility, a multi-layered stop-loss system was introduced. This included primary, secondary, and tertiary stop-loss thresholds to minimize drawdowns during sharp market declines.
+
+3. **Dynamic Position Sizing:**
+   - The algorithm incorporated dynamic position sizing based on market volatility, measured by the VIX index. This allowed the algorithm to scale back exposure during turbulent periods and increase exposure when the market was stable.
+
+4. **Adaptive Trading Frequency:**
+   - The strategy was further refined by incorporating an adaptive trading frequency that switched between daily and weekly trading based on market conditions. This helped to balance responsiveness to market changes with the need to avoid overtrading, particularly during periods of heightened volatility.
+
+### Final Results
+
+After backtesting the strategy over the period from January 2010 to June 2024 using the QuantConnect platform, the SPXL strategy demonstrated robust performance with a CAGR of 19%. The strategy successfully grew an initial $100,000 investment into over $1 million, highlighting its effectiveness in navigating various market conditions while maintaining a strong focus on risk management. The algorithm’s ability to dynamically adjust its exposure and protect against large drawdowns was key to its success.
