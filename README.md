@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project represents the development and iterative refinement of a trading algorithm aimed at maximizing returns while effectively managing risk. The primary focus is on trading leveraged ETFs, specifically SPXL, using a combination of machine learning models, technical indicators, and dynamic risk management strategies. After extensive backtesting over the period from 2010 to 2024, the algorithm was able to achieve a Compound Annual Growth Rate (CAGR) of 18%, turning an initial investment of $100,000 into over $1 million.
+This project represents the development and iterative refinement of a trading algorithm aimed at maximizing returns while effectively managing risk. The primary focus is on trading leveraged ETFs, specifically SPXL, using a combination of machine learning models, technical indicators, and dynamic risk management strategies. After extensive backtesting over the period from 2010 to 2024, the algorithm was able to achieve a Compound Annual Growth Rate (CAGR) of 18%, turning an initial investment of $100,000 into $1.15 million, with an alpha of +0.028.
 
 ## Development Process
 
