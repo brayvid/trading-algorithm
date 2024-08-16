@@ -1,4 +1,4 @@
-# S&P500 Trading Algorithm
+# SPXL Trading Algorithm
 <h4>Blake Rayvid - <a href=https://github.com/brayvid>https://github.com/brayvid</a></h4>
 <a href="https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_7ed6443eaa33bc5645d3673d069a54bc.html" rel="Open in QuantConnect">Open in QuantConnect</a>
 
