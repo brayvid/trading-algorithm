@@ -13,13 +13,13 @@ This project involves the development and refinement of a QuantConnect trading a
 
 ### 2. **Transition to Rule-Based Algorithms**
 
-#### **SPY Dynamic Threshold Strategy (50%)**
+#### **SPY Dynamic Threshold Strategy (50% Allocation)**
    - **Strategy:** I developed a dynamic threshold algorithm for SPY that used short-term (1 month) and long-term (3 months) moving averages to generate buy and sell signals. The thresholds for these signals were adjusted dynamically based on the market’s volatility (ATR) and momentum (RSI).
    - **Buy Signal:** Triggered when the short-term moving average crossed above the long-term moving average, with the threshold adjusted by ATR and RSI.
    - **Sell Signal:** Triggered when the short-term moving average crossed below the long-term moving average, again with the threshold adjusted by ATR and RSI.
    - **Capital Preservation:** After significant drawdowns, the strategy became more conservative in reentering the market, using increased thresholds for both buy and sell signals.
 
-#### **TQQQ Modified Buy-And-Hold Strategy (50%)**
+#### **TQQQ Modified Buy-And-Hold Strategy (50% Allocation)**
    - **Initial Simple Percentage-Based Signals:**
      - **Buy Signal:** Reentry into TQQQ was triggered if the price increased by a certain percentage (e.g., 5%) after a stop-loss event.
      - **Sell Signal:** A predefined drawdown threshold (e.g., 30%) from the peak price triggered an exit from TQQQ.
