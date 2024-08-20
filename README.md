@@ -1,5 +1,5 @@
 # Combined SPY and TQQQ Algorithm
-<a href="https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_27b1ae29ab90b0afd04afbbdc6f4bf58.html">Open in QuantConnect</a>
+<a href="https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_041c2eb67fabd7b6208cdf4e38f3e57d.html">Open in QuantConnect</a>
 ## Overview
 
 This capstone project involves the development and refinement of a QuantConnect trading algorithm that combines a dynamic strategy for SPY with a risk-managed approach for TQQQ. The goal is to optimize the balance between capturing market gains and managing drawdowns, particularly in volatile market conditions.
@@ -13,6 +13,8 @@ SPY, or the SPDR S&P 500 ETF Trust, is an exchange-traded fund (ETF) that tracks
 
 **Sector Exposure**: SPY offers broader sector exposure, including significant allocations to sectors like healthcare, industrials, and financials. 
 
+<img width=100% src="images/spy_sector_allocation.png">
+
 ### TQQQ Overview
 TQQQ, or the ProShares UltraPro QQQ, is a leveraged ETF that aims to deliver three times the daily performance of the NASDAQ-100 Index. The NASDAQ-100 Index is composed of 100 of the largest non-financial companies listed on the NASDAQ stock exchange, with a strong emphasis on technology stocks. TQQQ uses derivatives and debt to amplify the returns of the NASDAQ-100, making it a highly volatile investment suitable for short-term trading rather than long-term holding.
 
@@ -24,6 +26,8 @@ TQQQ, or the ProShares UltraPro QQQ, is a leveraged ETF that aims to deliver thr
 
 ### Similarities:
 Both SPY and TQQQ include major U.S. technology companies as their top holdings. Companies like Apple (AAPL), Microsoft (MSFT), Amazon (AMZN), and NVIDIA (NVDA) are top constituents in both funds, reflecting the dominance of these companies in both the S&P 500 and NASDAQ-100 indices. This overlap occurs because these companies are some of the largest by market capitalization in the U.S., giving them significant weight in broad market indices.
+
+<img width=100% src="images/tqqq_sector_allocation.png">
 
 ## Project History
 
@@ -95,17 +99,14 @@ The flexibility provided by this algorithm allows users to adjust key parameters
   - The aggressive strategy offers a much higher **Compound Annual Growth Rate (CAGR)** and **total return**, making it suitable for users aiming for substantial growth over a long-term horizon, despite the increased risk of significant drawdowns.
   - The conservative strategy provides more modest returns but with greater protection against large losses, making it better suited for users prioritizing capital preservation.
 
-### Conclusion:
-The flexibility in adjusting these parameters allows users to tailor the strategy to their own financial goals, whether they are looking for aggressive growth with higher risk or more conservative growth with reduced risk. This adaptability ensures that the strategy can be aligned with individual preferences, making it a versatile tool for a wide range of investors.
-
 ## Combined Strategy Returns
-<img width=100% src="combined_strategy_returns.png">
+<img width=100% src="images/combined_strategy_returns.png">
 
 ## Combined Strategy Drawdowns
-<img width=100% src="combined_strategy_drawdowns.png">
+<img width=100% src="images/combined_strategy_drawdowns.png">
 
 ## TQQQ Buy-And-Hold Strategy Returns
-<img width=100% src="tqqq_buy_and_hold_returns.png">
+<img width=100% src="images/tqqq_buy_and_hold_returns.png">
 
 ## TQQQ Buy-And-Hold Strategy Drawdowns
-<img width=100% src="tqqq_buy_and_hold_drawdowns.png">
+<img width=100% src="images/tqqq_buy_and_hold_drawdowns.png">
