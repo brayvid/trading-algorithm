@@ -54,7 +54,7 @@ I developed a dynamic threshold algorithm for SPY that uses moving average cross
    - **Sell Signal:** A predefined drawdown threshold (e.g., 30%) from the peak price triggered an exit from TQQQ.
 
 **Refinement to Moving Average Crossover Signals:**
-   - **Buy Signal:** I shifted to a more cautious approach where TQQQ is bought when a faster moving average (100 days) crosses above a slower moving average (300 days). This signal was designed to align with long-term uptrends.
+   - **Buy Signal:** I shifted to a more cautious approach where TQQQ is bought when a faster moving average (100 days) crosses above a slower moving average (300 days). This signal is designed to align with long-term uptrends.
    - **Sell Signal:** I maintained the drawdown-based exit strategy, ensuring protection against large losses in TQQQ.
    - The TQQQ portion of the strategy is primarily intended as a buy-and-hold strategy, with exits only during significant drawdowns to manage risk.
 
