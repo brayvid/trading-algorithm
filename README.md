@@ -66,7 +66,10 @@ I developed a dynamic threshold algorithm for SPY that uses moving average cross
 
 ### 4. **Performance Results**
 
-**Given `allocation_spy` = 30% and `tqqq_drawdown_threshold` = 45%:**
+The flexibility provided by this algorithm allows users to adjust key parameters to tailor the strategy to their specific risk tolerance and investment objectives. These parameters significantly impact the balance between risk and return, as demonstrated by the backtest results above at each end of the spectrum.
+
+
+**Aggressive Parameters:** `allocation_spy` = 30%, `tqqq_drawdown_threshold` = 45%
 - **Alpha:** 0.117
 - **Maximum Drawdown:** 68.6%
 - **Market Entries:** The algorithm entered the market 5 times, three times in SPY and twice in TQQQ.
@@ -76,7 +79,12 @@ I developed a dynamic threshold algorithm for SPY that uses moving average cross
 - **Net Gains:** The strategy netted $6.18 million on a $100,000 initial investment.
 - **Timeframe:** January 1 2011 to June 30 2024.
 
-**Given `allocation_spy` = 70% and `tqqq_drawdown_threshold` = 30%:**
+<img width=100% src="images/aggressive_strategy_returns.png">
+<img width=100% src="images/aggressive_strategy_drawdowns.png">
+
+</br>
+
+**Conservative Parameters:** `allocation_spy` = 70%, `tqqq_drawdown_threshold` = 30%
 - **Alpha:** 0.005
 - **Maximum Drawdown:** 44.2%
 - **Market Entries:** The algorithm entered the market 7 times, twice in SPY and 5 times in TQQQ.
@@ -86,27 +94,21 @@ I developed a dynamic threshold algorithm for SPY that uses moving average cross
 - **Net Gains:** The strategy netted $734,000 on a $100,000 initial investment.
 - **Timeframe:** January 1 2011 to June 30 2024.
 
-## Conclusion
-
-The flexibility provided by this algorithm allows users to adjust key parameters to tailor the strategy to their specific risk tolerance and investment objectives. These parameters significantly impact the balance between risk and return, as demonstrated by the backtest results above at each end of the spectrum.
+<img width=100% src="images/conservative_strategy_returns.png">
+<img width=100% src="images/conservative_strategy_drawdowns.png">
 
 ### User Considerations:
+
 **Risk Tolerance**: 
   - **Aggressive Strategy**: Users with a higher risk tolerance might prefer a lower allocation to SPY (e.g., 30%) and a higher drawdown threshold for TQQQ (e.g., 45%). This setup significantly increases potential returns but comes with higher volatility and a larger maximum drawdown.
   - **Conservative Strategy**: Users seeking more stability might opt for a higher allocation to SPY (e.g., 70%) and a lower drawdown threshold for TQQQ (e.g., 30%). This approach reduces drawdowns and volatility but also lowers overall returns.
 
 **Return Expectations**:
-  - The aggressive strategy offers a much higher **Compound Annual Growth Rate (CAGR)** and **total return**, making it suitable for users aiming for substantial growth over a long-term horizon, despite the increased risk of significant drawdowns.
+  - The aggressive strategy offers a much higher CAGR and total return, making it suitable for users aiming for substantial growth over a long-term horizon, despite the increased risk of significant drawdowns.
   - The conservative strategy provides more modest returns but with greater protection against large losses, making it better suited for users prioritizing capital preservation.
 
-## Combined Strategy Returns
-<img width=100% src="images/combined_strategy_returns.png">
+## Comparison to TQQQ Simple Buy-And-Hold Strategy
 
-## Combined Strategy Drawdowns
-<img width=100% src="images/combined_strategy_drawdowns.png">
-
-## TQQQ Buy-And-Hold Strategy Returns
 <img width=100% src="images/tqqq_buy_and_hold_returns.png">
 
-## TQQQ Buy-And-Hold Strategy Drawdowns
 <img width=100% src="images/tqqq_buy_and_hold_drawdowns.png">
