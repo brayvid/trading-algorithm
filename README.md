@@ -13,7 +13,7 @@ SPY, or the SPDR S&P 500 ETF Trust, is an exchange-traded fund (ETF) that tracks
 
 **Sector Exposure**: SPY offers broader sector exposure, including significant allocations to sectors like healthcare, industrials, and financials. 
 
-<img width=100% src="images/spy_sector_allocation.png">
+<center><img width=50% src="images/spy_sector_allocation.png"></center>
 
 ### TQQQ Overview
 TQQQ, or the ProShares UltraPro QQQ, is a leveraged ETF that aims to deliver three times the daily performance of the NASDAQ-100 Index. The NASDAQ-100 Index is composed of 100 of the largest non-financial companies listed on the NASDAQ stock exchange, with a strong emphasis on technology stocks. TQQQ uses derivatives and debt to amplify the returns of the NASDAQ-100, making it a highly volatile investment suitable for short-term trading rather than long-term holding.
@@ -24,10 +24,10 @@ TQQQ, or the ProShares UltraPro QQQ, is a leveraged ETF that aims to deliver thr
 
 **Sector Exposure**: TQQQ is heavily weighted towards technology, with much higher exposure to tech companies than SPY, making it more sensitive to the performance of the tech sector.
 
+<center><img width=50% src="images/tqqq_sector_allocation.png"></center>
+
 ### Similarities:
 Both SPY and TQQQ include major U.S. technology companies as their top holdings. Companies like Apple (AAPL), Microsoft (MSFT), Amazon (AMZN), and NVIDIA (NVDA) are top constituents in both funds, reflecting the dominance of these companies in both the S&P 500 and NASDAQ-100 indices. This overlap occurs because these companies are some of the largest by market capitalization in the U.S., giving them significant weight in broad market indices.
-
-<img width=100% src="images/tqqq_sector_allocation.png">
 
 ## Project History
 
