@@ -1,0 +1,283 @@
+2009-10-23 00:00:00 Launching analysis for 1ceb80ea402f9ac48705aba8d99df310 with LEAN Engine v2.5.0.0.16578
+2009-10-23 00:00:00 Accurate daily end-times now enabled by default. See more at https://qnt.co/3YHaWHL. To disable it and use legacy daily bars set self.settings.daily_precise_end_time = False.
+2009-10-23 00:00:00 Algorithm starting warm up...
+2011-01-03 11:00:00 TQQQ Initial Buy - Holding 30.000000000000004% of Portfolio in TQQQ on 2011-01-03 10:00:00
+2011-01-03 11:00:00 Algorithm finished warming up.
+2011-02-01 16:00:00 SPY: Not enough data to calculate moving averages on 2011-02-01 16:00:00
+2011-03-01 16:00:00 SPY: Not enough data to calculate moving averages on 2011-03-01 16:00:00
+2011-04-01 16:00:00 SPY: Not enough data to calculate moving averages on 2011-04-01 16:00:00
+2011-05-02 16:00:00 SPY: Not enough data to calculate moving averages on 2011-05-02 16:00:00
+2011-06-01 16:00:00 SPY: Not enough data to calculate moving averages on 2011-06-01 16:00:00
+2011-08-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-08 16:00:00
+2011-08-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-09 16:00:00
+2011-08-10 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-10 16:00:00
+2011-08-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-11 16:00:00
+2011-08-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-12 16:00:00
+2011-08-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-17 16:00:00
+2011-08-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-18 16:00:00
+2011-08-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-19 16:00:00
+2011-08-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-22 16:00:00
+2011-08-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-23 16:00:00
+2011-08-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-24 16:00:00
+2011-08-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-25 16:00:00
+2011-08-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-08-26 16:00:00
+2011-09-02 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-02 16:00:00
+2011-09-06 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-06 16:00:00
+2011-09-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-09 16:00:00
+2011-09-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-12 16:00:00
+2011-09-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-22 16:00:00
+2011-09-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-23 16:00:00
+2011-09-29 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-29 16:00:00
+2011-09-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-09-30 16:00:00
+2011-10-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-10-03 16:00:00
+2011-10-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-10-04 16:00:00
+2011-10-05 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-10-05 16:00:00
+2011-10-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2011-10-07 16:00:00
+2011-11-21 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2011-11-21 16:00:00 | Peak Price: 0.9420306561372136, Current Price: 0.6380423979235019
+2012-02-01 16:00:00 SPY Buy Signal - Entering Market on 2012-02-01 16:00:00 | Short MA: 104.303172051, Long MA: 98.14651411783335, Difference: 6.27%, Buy Threshold: 3.21%
+2012-03-02 16:00:00 TQQQ Reentry - Reentering Market on 2012-03-02 16:00:00 with Slower Long-Term Uptrend | Fast MA: 0.7971958389463368, Slow MA: 0.7958633804724522
+2012-05-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2012-05-18 16:00:00
+2012-06-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2012-06-01 16:00:00
+2012-06-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2012-06-04 16:00:00
+2012-11-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2012-11-14 16:00:00
+2012-11-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2012-11-15 16:00:00
+2012-11-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2012-11-16 16:00:00
+2015-08-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-08-24 16:00:00
+2015-08-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-08-25 16:00:00
+2015-09-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-09-01 16:00:00
+2015-09-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-09-04 16:00:00
+2015-09-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-09-28 16:00:00
+2015-09-29 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-09-29 16:00:00
+2015-09-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-09-30 16:00:00
+2015-10-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2015-10-01 16:00:00
+2016-01-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2016-01-13 16:00:00
+2016-01-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2016-01-15 16:00:00
+2016-01-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2016-01-19 16:00:00
+2016-01-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2016-01-20 16:00:00
+2016-01-21 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2016-01-21 16:00:00 | Peak Price: 5.143687083186925, Current Price: 3.3268431370063
+2016-08-18 16:00:00 TQQQ Reentry - Reentering Market on 2016-08-18 16:00:00 with Slower Long-Term Uptrend | Fast MA: 4.197042750899963, Slow MA: 4.193823572589397
+2018-10-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-10-24 16:00:00
+2018-10-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-10-26 16:00:00
+2018-10-29 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-10-29 16:00:00
+2018-10-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-10-30 16:00:00
+2018-11-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-12 16:00:00
+2018-11-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-13 16:00:00
+2018-11-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-14 16:00:00
+2018-11-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-15 16:00:00
+2018-11-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-16 16:00:00
+2018-11-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-19 16:00:00
+2018-11-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-20 16:00:00
+2018-11-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-21 16:00:00
+2018-11-23 13:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-23 13:00:00
+2018-11-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-26 16:00:00
+2018-11-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-27 16:00:00
+2018-11-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-28 16:00:00
+2018-11-29 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-29 16:00:00
+2018-11-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-11-30 16:00:00
+2018-12-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-04 16:00:00
+2018-12-06 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-06 16:00:00
+2018-12-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-07 16:00:00
+2018-12-10 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-10 16:00:00
+2018-12-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-11 16:00:00
+2018-12-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-12 16:00:00
+2018-12-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-13 16:00:00
+2018-12-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-14 16:00:00
+2018-12-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-17 16:00:00
+2018-12-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-18 16:00:00
+2018-12-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-19 16:00:00
+2018-12-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-20 16:00:00
+2018-12-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-21 16:00:00
+2018-12-24 13:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-24 13:00:00
+2018-12-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-26 16:00:00
+2018-12-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-27 16:00:00
+2018-12-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-28 16:00:00
+2018-12-31 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-31 16:00:00
+2019-01-02 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-02 16:00:00
+2019-01-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-03 16:00:00
+2019-01-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-04 16:00:00
+2019-01-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-07 16:00:00
+2019-01-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-08 16:00:00
+2019-01-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-09 16:00:00
+2019-01-10 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-10 16:00:00
+2019-01-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-11 16:00:00
+2019-01-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-14 16:00:00
+2019-01-15 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2019-01-15 16:00:00 | Peak Price: 17.5627896875, Current Price: 10.3456552825
+2019-01-15 16:00:00 Capital Preservation Mode Activated on 2019-01-15 16:00:00
+2019-06-18 16:00:00 TQQQ Reentry - Reentering Market on 2019-06-18 16:00:00 with Slower Long-Term Uptrend | Fast MA: 13.549592235739999, Slow MA: 13.542683205887968
+2020-02-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-02-27 16:00:00
+2020-02-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-02-28 16:00:00
+2020-03-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-03 16:00:00
+2020-03-05 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-05 16:00:00
+2020-03-06 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-06 16:00:00
+2020-03-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-09 16:00:00
+2020-03-10 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-10 16:00:00
+2020-03-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-11 16:00:00
+2020-03-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-12 16:00:00
+2020-03-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-13 16:00:00
+2020-03-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-16 16:00:00
+2020-03-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-17 16:00:00
+2020-03-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-18 16:00:00
+2020-03-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-19 16:00:00
+2020-03-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-20 16:00:00
+2020-03-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-23 16:00:00
+2020-03-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-24 16:00:00
+2020-03-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-25 16:00:00
+2020-03-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-26 16:00:00
+2020-03-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-27 16:00:00
+2020-03-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-30 16:00:00
+2020-03-31 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-31 16:00:00
+2020-04-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-01 16:00:00
+2020-04-02 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-02 16:00:00
+2020-04-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-03 16:00:00
+2020-04-06 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-06 16:00:00
+2020-04-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-07 16:00:00
+2020-04-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-08 16:00:00
+2020-04-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-09 16:00:00
+2020-04-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-13 16:00:00
+2020-04-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-14 16:00:00
+2020-04-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-15 16:00:00
+2020-04-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-16 16:00:00
+2020-04-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-17 16:00:00
+2020-04-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-20 16:00:00
+2020-04-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-21 16:00:00
+2020-04-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-22 16:00:00
+2020-04-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-23 16:00:00
+2020-04-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-24 16:00:00
+2020-04-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-27 16:00:00
+2020-04-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-28 16:00:00
+2020-04-29 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-29 16:00:00
+2020-04-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-30 16:00:00
+2020-05-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-01 16:00:00
+2020-05-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-04 16:00:00
+2020-05-05 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-05 16:00:00
+2020-05-06 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-06 16:00:00
+2020-05-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-07 16:00:00
+2020-05-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-08 16:00:00
+2020-05-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-11 16:00:00
+2020-05-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-12 16:00:00
+2020-05-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-13 16:00:00
+2020-05-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-14 16:00:00
+2020-05-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-15 16:00:00
+2020-05-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-18 16:00:00
+2020-05-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-19 16:00:00
+2020-05-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-20 16:00:00
+2020-05-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-21 16:00:00
+2020-05-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-22 16:00:00
+2020-05-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-26 16:00:00
+2020-05-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-27 16:00:00
+2020-05-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-28 16:00:00
+2020-09-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-09-08 16:00:00
+2020-09-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-09-11 16:00:00
+2020-09-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-09-17 16:00:00
+2020-09-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-09-18 16:00:00
+2020-09-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-09-21 16:00:00
+2020-09-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-09-23 16:00:00
+2020-09-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-09-24 16:00:00
+2020-10-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-10-28 16:00:00
+2020-10-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-10-30 16:00:00
+2020-11-02 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-11-02 16:00:00
+2021-03-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2021-03-08 16:00:00
+2022-01-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-20 16:00:00
+2022-01-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-21 16:00:00
+2022-01-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-24 16:00:00
+2022-01-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-25 16:00:00
+2022-01-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-26 16:00:00
+2022-01-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-27 16:00:00
+2022-01-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-28 16:00:00
+2022-01-31 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-01-31 16:00:00
+2022-02-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-03 16:00:00
+2022-02-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-04 16:00:00
+2022-02-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-07 16:00:00
+2022-02-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-08 16:00:00
+2022-02-10 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-10 16:00:00
+2022-02-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-11 16:00:00
+2022-02-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-14 16:00:00
+2022-02-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-15 16:00:00
+2022-02-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-16 16:00:00
+2022-02-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-17 16:00:00
+2022-02-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-18 16:00:00
+2022-02-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-22 16:00:00
+2022-02-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-23 16:00:00
+2022-02-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-24 16:00:00
+2022-02-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-25 16:00:00
+2022-02-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-28 16:00:00
+2022-03-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-01 16:00:00
+2022-03-02 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-02 16:00:00
+2022-03-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-03 16:00:00
+2022-03-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-04 16:00:00
+2022-03-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-07 16:00:00
+2022-03-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-08 16:00:00
+2022-03-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-09 16:00:00
+2022-03-10 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-10 16:00:00
+2022-03-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-11 16:00:00
+2022-03-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-14 16:00:00
+2022-03-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-15 16:00:00
+2022-03-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-16 16:00:00
+2022-03-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-17 16:00:00
+2022-03-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-18 16:00:00
+2022-03-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-21 16:00:00
+2022-03-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-22 16:00:00
+2022-03-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-23 16:00:00
+2022-03-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-24 16:00:00
+2022-03-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-25 16:00:00
+2022-03-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-28 16:00:00
+2022-03-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-30 16:00:00
+2022-03-31 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-31 16:00:00
+2022-04-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-01 16:00:00
+2022-04-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-04 16:00:00
+2022-04-05 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-05 16:00:00
+2022-04-06 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-06 16:00:00
+2022-04-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-07 16:00:00
+2022-04-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-08 16:00:00
+2022-04-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-11 16:00:00
+2022-04-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-12 16:00:00
+2022-04-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-13 16:00:00
+2022-04-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-14 16:00:00
+2022-04-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-18 16:00:00
+2022-04-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-19 16:00:00
+2022-04-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-20 16:00:00
+2022-04-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-21 16:00:00
+2022-04-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-22 16:00:00
+2022-04-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-25 16:00:00
+2022-04-26 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2022-04-26 16:00:00 | Peak Price: 86.000478016, Current Price: 37.101508795
+2022-04-26 16:00:00 Capital Preservation Mode Activated on 2022-04-26 16:00:00
+2022-05-02 16:00:00 Capital Preservation Mode Activated on 2022-05-02 16:00:00
+2022-05-09 16:00:00 SPY Trailing Stop-Loss Triggered - Exiting Market on 2022-05-09 16:00:00 | Trailing Stop Price: 391.10687369174997, Current Price: 384.705005476
+2022-06-01 16:00:00 Capital Preservation Mode Activated on 2022-06-01 16:00:00
+2022-07-01 16:00:00 Capital Preservation Mode Activated on 2022-07-01 16:00:00
+2022-08-01 16:00:00 Capital Preservation Mode Activated on 2022-08-01 16:00:00
+2022-09-01 16:00:00 Capital Preservation Mode Activated on 2022-09-01 16:00:00
+2022-10-03 16:00:00 Capital Preservation Mode Activated on 2022-10-03 16:00:00
+2022-11-01 16:00:00 Capital Preservation Mode Activated on 2022-11-01 16:00:00
+2022-12-01 16:00:00 Capital Preservation Mode Activated on 2022-12-01 16:00:00
+2023-01-03 16:00:00 Capital Preservation Mode Activated on 2023-01-03 16:00:00
+2023-02-01 16:00:00 Capital Preservation Mode Activated on 2023-02-01 16:00:00
+2023-03-01 16:00:00 Capital Preservation Mode Activated on 2023-03-01 16:00:00
+2023-04-03 16:00:00 Capital Preservation Mode Activated on 2023-04-03 16:00:00
+2023-05-01 16:00:00 Capital Preservation Mode Activated on 2023-05-01 16:00:00
+2023-06-01 16:00:00 Capital Preservation Mode Activated on 2023-06-01 16:00:00
+2023-06-14 16:00:00 TQQQ Reentry - Reentering Market on 2023-06-14 16:00:00 with Slower Long-Term Uptrend | Fast MA: 26.65855725568, Slow MA: 26.585840010896668
+2023-07-03 13:00:00 Capital Preservation Mode Activated on 2023-07-03 13:00:00
+2023-08-01 16:00:00 Capital Preservation Mode Activated on 2023-08-01 16:00:00
+2023-09-01 16:00:00 Capital Preservation Mode Activated on 2023-09-01 16:00:00
+2023-10-02 16:00:00 Capital Preservation Mode Activated on 2023-10-02 16:00:00
+2023-10-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2023-10-26 16:00:00
+2023-10-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2023-10-27 16:00:00
+2023-10-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2023-10-30 16:00:00
+2023-11-01 16:00:00 Capital Preservation Mode Activated on 2023-11-01 16:00:00
+2023-12-01 16:00:00 Capital Preservation Mode Activated on 2023-12-01 16:00:00
+2024-01-02 16:00:00 Capital Preservation Mode Activated on 2024-01-02 16:00:00
+2024-02-01 16:00:00 Capital Preservation Mode Activated on 2024-02-01 16:00:00
+2024-03-01 16:00:00 Capital Preservation Mode Activated on 2024-03-01 16:00:00
+2024-04-01 16:00:00 SPY Buy Signal - Entering Market on 2024-04-01 16:00:00 | Short MA: 521.387911494, Long MA: 473.9989443961667, Difference: 10.00%, Buy Threshold: 9.71%
+2024-04-01 16:00:00 Capital Preservation Mode Activated on 2024-04-01 16:00:00
+2024-05-01 16:00:00 Capital Preservation Mode Activated on 2024-05-01 16:00:00
+2024-06-03 16:00:00 Capital Preservation Mode Activated on 2024-06-03 16:00:00
+2024-06-28 16:00:00 End of algorithm - Total Market Entries in SPY: 2
+2024-06-28 16:00:00 End of algorithm - Total Market Entries in TQQQ: 5
+2024-06-28 16:00:00 Total SPY Profit: 197071.45895346694
+2024-06-28 16:00:00 Total TQQQ Profit: 422313.23164970794
+2024-06-28 16:00:00 Total Portfolio Value: 733868.7783424743
+2024-06-28 16:00:00 Algorithm Id:(1ceb80ea402f9ac48705aba8d99df310) completed in 0.92 seconds at 36k data points per second. Processing total of 33,177 data points.
+2024-06-28 16:00:00 Due to numerical precision issues in the factor file, data for the following symbols was adjust to a later starting date: [TQQQ, 2/10/2010]
+2024-06-28 16:00:00 The starting dates for the following symbols have been adjusted to match their map files first date: [TQQQ, 2010-02-11]
