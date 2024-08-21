@@ -69,7 +69,7 @@ I developed a dynamic threshold algorithm for SPY that uses moving average cross
 The flexibility provided by this algorithm allows users to adjust key parameters to tailor the strategy to their specific risk tolerance and investment objectives. These parameters significantly impact the balance between risk and return, as demonstrated by the backtest results above at each end of the spectrum.
 
 
-**Aggressive Parameters:** `allocation_spy` = 30%, `tqqq_drawdown_threshold` = 45%
+**Aggressive Parameters:** `allocation_spy` = 30%, `tqqq_drawdown_threshold` = 40%
 - **Alpha:** 0.116
 - **Maximum Drawdown:** 58.2%
 - **Market Entries:** The algorithm entered the market 11 times: 4 in SPY and 7 in TQQQ.
@@ -100,7 +100,7 @@ The flexibility provided by this algorithm allows users to adjust key parameters
 ### User Considerations:
 
 **Risk Tolerance**: 
-  - **Aggressive Strategy**: Users with a higher risk tolerance might prefer a lower allocation to SPY (e.g., 30%) and a higher drawdown threshold for TQQQ (e.g., 45%). This setup significantly increases potential returns but comes with higher volatility and a larger maximum drawdown.
+  - **Aggressive Strategy**: Users with a higher risk tolerance might prefer a lower allocation to SPY (e.g., 30%) and a higher drawdown threshold for TQQQ (e.g., 40%). This setup significantly increases potential returns but comes with higher volatility and a larger maximum drawdown.
   - **Conservative Strategy**: Users seeking more stability might opt for a higher allocation to SPY (e.g., 70%) and a lower drawdown threshold for TQQQ (e.g., 30%). This approach reduces drawdowns and volatility but also lowers overall returns.
 
 **Return Expectations**:
