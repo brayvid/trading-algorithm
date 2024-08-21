@@ -87,7 +87,7 @@ The flexibility provided by this algorithm allows users to adjust key parameters
 **Conservative Parameters:** `allocation_spy` = 70%, `tqqq_drawdown_threshold` = 30%
 - **Alpha:** 0.037
 - **Maximum Drawdown:** 30.1%
-- **Market Entries:** The algorithm entered the market 18 times: 4 in SPY and 18 times in TQQQ.
+- **Market Entries:** The algorithm entered the market 18 times: 4 in SPY and 14 times in TQQQ.
 - **Total Fees:** $1,998 in total fees.
 - **Total Return:** 791%
 - **Compound Annual Growth Rate (CAGR):** 17.6%
