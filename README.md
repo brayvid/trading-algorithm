@@ -1,5 +1,5 @@
 # Combined SPY and TQQQ Algorithm
-<a href="https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_041c2eb67fabd7b6208cdf4e38f3e57d.html">Open in QuantConnect</a>
+<a href="https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_1dd780d6065c541bf33fcb2635b263eb.html">Open in QuantConnect</a>
 ## Overview
 
 This capstone project involves the development and refinement of a QuantConnect trading algorithm that combines a dynamic strategy for SPY with a risk-managed approach for TQQQ. The goal is to optimize the balance between capturing market gains and managing drawdowns, particularly in volatile market conditions.
