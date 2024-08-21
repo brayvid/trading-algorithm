@@ -70,13 +70,13 @@ The flexibility provided by this algorithm allows users to adjust key parameters
 
 
 **Aggressive Parameters:** `allocation_spy` = 30%, `tqqq_drawdown_threshold` = 45%
-- **Alpha:** 0.117
-- **Maximum Drawdown:** 68.6%
-- **Market Entries:** The algorithm entered the market 5 times, three times in SPY and twice in TQQQ.
-- **Total Fees:** $1,195 in total fees.
-- **Total Return:** 6,084%
-- **Compound Annual Growth Rate (CAGR):** 35.7%
-- **Net Gains:** The strategy netted $6.18 million on a $100,000 initial investment.
+- **Alpha:** 0.116
+- **Maximum Drawdown:** 58.2%
+- **Market Entries:** The algorithm entered the market 11 times: 4 in SPY and 7 in TQQQ.
+- **Total Fees:** $3,467 in total fees.
+- **Total Return:** 4,132%
+- **Compound Annual Growth Rate (CAGR):** 32%
+- **Net Gains:** The strategy netted $4.23 million on a $100,000 initial investment.
 - **Timeframe:** January 1 2011 to June 30 2024.
 
 <img width=100% src="images/aggressive_strategy_returns.png">
@@ -85,13 +85,13 @@ The flexibility provided by this algorithm allows users to adjust key parameters
 </br>
 
 **Conservative Parameters:** `allocation_spy` = 70%, `tqqq_drawdown_threshold` = 30%
-- **Alpha:** 0.005
-- **Maximum Drawdown:** 44.2%
-- **Market Entries:** The algorithm entered the market 7 times, twice in SPY and 5 times in TQQQ.
-- **Total Fees:** $779 in total fees.
-- **Total Return:** 634%
-- **Compound Annual Growth Rate (CAGR):** 15.9%
-- **Net Gains:** The strategy netted $734,000 on a $100,000 initial investment.
+- **Alpha:** 0.037
+- **Maximum Drawdown:** 30.1%
+- **Market Entries:** The algorithm entered the market 18 times: 4 in SPY and 18 times in TQQQ.
+- **Total Fees:** $1,998 in total fees.
+- **Total Return:** 791%
+- **Compound Annual Growth Rate (CAGR):** 17.6%
+- **Net Gains:** The strategy netted $891,200 on a $100,000 initial investment.
 - **Timeframe:** January 1 2011 to June 30 2024.
 
 <img width=100% src="images/conservative_strategy_returns.png">
@@ -110,5 +110,4 @@ The flexibility provided by this algorithm allows users to adjust key parameters
 ## Comparison to TQQQ Simple Buy-And-Hold Strategy
 
 <img width=100% src="images/tqqq_buy_and_hold_returns.png">
-
 <img width=100% src="images/tqqq_buy_and_hold_drawdowns.png">

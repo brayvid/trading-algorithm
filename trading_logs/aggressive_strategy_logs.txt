@@ -1,4 +1,4 @@
-2009-10-23 00:00:00 Launching analysis for 041c2eb67fabd7b6208cdf4e38f3e57d with LEAN Engine v2.5.0.0.16578
+2009-10-23 00:00:00 Launching analysis for 1dd780d6065c541bf33fcb2635b263eb with LEAN Engine v2.5.0.0.16580
 2009-10-23 00:00:00 Accurate daily end-times now enabled by default. See more at https://qnt.co/3YHaWHL. To disable it and use legacy daily bars set self.settings.daily_precise_end_time = False.
 2009-10-23 00:00:00 Algorithm starting warm up...
 2011-01-03 11:00:00 TQQQ Initial Buy - Holding 70.0% of Portfolio in TQQQ on 2011-01-03 10:00:00
@@ -8,126 +8,29 @@
 2011-04-01 16:00:00 SPY: Not enough data to calculate moving averages on 2011-04-01 16:00:00
 2011-05-02 16:00:00 SPY: Not enough data to calculate moving averages on 2011-05-02 16:00:00
 2011-06-01 16:00:00 SPY: Not enough data to calculate moving averages on 2011-06-01 16:00:00
-2011-10-03 16:00:00 Capital Preservation Mode Activated on 2011-10-03 16:00:00
+2011-08-08 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2011-08-08 16:00:00 | Peak Price: 0.9420306561372136, Current Price: 0.5642901852603015
+2011-09-08 16:00:00 TQQQ Reentry - Reentering Market on 2011-09-08 16:00:00 with Slower Long-Term Uptrend | Fast MA: 0.7936555309540637, Slow MA: 0.7088008172317557
 2012-02-01 16:00:00 SPY Buy Signal - Entering Market on 2012-02-01 16:00:00 | Short MA: 104.303172051, Long MA: 97.88452348700001, Difference: 6.56%, Buy Threshold: 3.21%
-2012-06-01 16:00:00 Capital Preservation Mode Activated on 2012-06-01 16:00:00
-2015-09-01 16:00:00 Capital Preservation Mode Activated on 2015-09-01 16:00:00
-2015-10-01 16:00:00 Capital Preservation Mode Activated on 2015-10-01 16:00:00
-2016-02-01 16:00:00 Capital Preservation Mode Activated on 2016-02-01 16:00:00
-2016-03-01 16:00:00 Capital Preservation Mode Activated on 2016-03-01 16:00:00
-2018-04-02 16:00:00 Capital Preservation Mode Activated on 2018-04-02 16:00:00
-2018-12-03 16:00:00 Capital Preservation Mode Activated on 2018-12-03 16:00:00
-2018-12-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-19 16:00:00
-2018-12-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-20 16:00:00
-2018-12-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-21 16:00:00
-2018-12-24 13:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-24 13:00:00
-2018-12-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-26 16:00:00
-2018-12-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-27 16:00:00
-2018-12-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-28 16:00:00
-2018-12-31 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2018-12-31 16:00:00
-2019-01-02 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-02 16:00:00
-2019-01-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-03 16:00:00
-2019-01-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-04 16:00:00
-2019-01-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2019-01-07 16:00:00
-2019-01-08 16:00:00 Capital Preservation Mode Activated on 2019-01-08 16:00:00
-2019-02-01 16:00:00 Capital Preservation Mode Activated on 2019-02-01 16:00:00
-2019-03-01 16:00:00 Capital Preservation Mode Activated on 2019-03-01 16:00:00
-2019-06-03 16:00:00 Capital Preservation Mode Activated on 2019-06-03 16:00:00
-2020-03-02 16:00:00 Capital Preservation Mode Activated on 2020-03-02 16:00:00
-2020-03-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-09 16:00:00
-2020-03-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-11 16:00:00
-2020-03-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-12 16:00:00
-2020-03-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-13 16:00:00
-2020-03-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-16 16:00:00
-2020-03-17 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-17 16:00:00
-2020-03-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-18 16:00:00
-2020-03-19 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-19 16:00:00
-2020-03-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-20 16:00:00
-2020-03-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-23 16:00:00
-2020-03-24 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-24 16:00:00
-2020-03-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-25 16:00:00
-2020-03-26 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-26 16:00:00
-2020-03-27 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-27 16:00:00
-2020-03-30 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-30 16:00:00
-2020-03-31 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-03-31 16:00:00
-2020-04-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-01 16:00:00
-2020-04-02 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-02 16:00:00
-2020-04-03 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-03 16:00:00
-2020-04-06 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-06 16:00:00
-2020-04-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-07 16:00:00
-2020-04-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-08 16:00:00
-2020-04-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-09 16:00:00
-2020-04-13 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-13 16:00:00
-2020-04-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-14 16:00:00
-2020-04-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-15 16:00:00
-2020-04-16 16:00:00 Capital Preservation Mode Activated on 2020-04-16 16:00:00
-2020-04-16 16:00:00 SPY Trailing Stop-Loss Triggered - Exiting Market on 2020-04-16 16:00:00 | Trailing Stop Price: 268.3478291961, Current Price: 261.957678
-2020-04-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-20 16:00:00
-2020-04-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-21 16:00:00
-2020-04-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-22 16:00:00
-2020-04-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-23 16:00:00
-2020-04-28 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-04-28 16:00:00
-2020-05-01 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2020-05-01 16:00:00
-2020-05-04 16:00:00 Capital Preservation Mode Activated on 2020-05-04 16:00:00
-2020-06-01 16:00:00 Capital Preservation Mode Activated on 2020-06-01 16:00:00
-2020-08-03 16:00:00 SPY Buy Signal - Entering Market on 2020-08-03 16:00:00 | Short MA: 307.81399572, Long MA: 283.7229449686667, Difference: 8.49%, Buy Threshold: 3.37%
-2020-11-02 16:00:00 Capital Preservation Mode Activated on 2020-11-02 16:00:00
-2022-02-01 16:00:00 Capital Preservation Mode Activated on 2022-02-01 16:00:00
-2022-02-23 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-02-23 16:00:00
-2022-03-01 16:00:00 Capital Preservation Mode Activated on 2022-03-01 16:00:00
-2022-03-04 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-04 16:00:00
-2022-03-07 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-07 16:00:00
-2022-03-08 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-08 16:00:00
-2022-03-09 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-09 16:00:00
-2022-03-10 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-10 16:00:00
-2022-03-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-11 16:00:00
-2022-03-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-14 16:00:00
-2022-03-15 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-15 16:00:00
-2022-03-16 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-03-16 16:00:00
-2022-04-01 16:00:00 Capital Preservation Mode Activated on 2022-04-01 16:00:00
-2022-04-11 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-11 16:00:00
-2022-04-12 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-12 16:00:00
-2022-04-14 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-14 16:00:00
-2022-04-18 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-18 16:00:00
-2022-04-20 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-20 16:00:00
-2022-04-21 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-21 16:00:00
-2022-04-22 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-22 16:00:00
-2022-04-25 16:00:00 TQQQ: Exit and Reentry conditions both true. No action taken on 2022-04-25 16:00:00
-2022-04-26 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2022-04-26 16:00:00 | Peak Price: 86.000478016, Current Price: 37.101508795
-2022-05-02 16:00:00 Capital Preservation Mode Activated on 2022-05-02 16:00:00
+2016-02-05 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2016-02-05 16:00:00 | Peak Price: 5.143687083186925, Current Price: 3.024439555742014
+2016-08-18 16:00:00 TQQQ Reentry - Reentering Market on 2016-08-18 16:00:00 with Slower Long-Term Uptrend | Fast MA: 4.197042750899963, Slow MA: 4.193823572589397
+2018-11-20 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2018-11-20 16:00:00 | Peak Price: 17.5627896875, Current Price: 10.2712039
+2018-12-20 16:00:00 SPY Trailing Stop-Loss Triggered - Exiting Market on 2018-12-20 16:00:00 | Trailing Stop Price: 226.16421468479996, Current Price: 225.032985177
+2018-12-21 16:00:00 TQQQ Reentry - Reentering Market on 2018-12-21 16:00:00 with Slower Long-Term Uptrend | Fast MA: 14.13036652005, Slow MA: 13.17943422483631
+2019-04-01 16:00:00 SPY Buy Signal - Entering Market on 2019-04-01 16:00:00 | Short MA: 259.822363944, Long MA: 248.07254793299998, Difference: 4.74%, Buy Threshold: 3.39%
+2020-03-09 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2020-03-09 16:00:00 | Peak Price: 28.658687208, Current Price: 14.863386564
+2020-03-09 16:00:00 SPY Trailing Stop-Loss Triggered - Exiting Market on 2020-03-09 16:00:00 | Trailing Stop Price: 268.3478291961, Current Price: 255.882614427
+2020-04-09 16:00:00 TQQQ Reentry - Reentering Market on 2020-04-09 16:00:00 with Slower Long-Term Uptrend | Fast MA: 19.40044829082, Slow MA: 16.267279654299998
+2020-07-01 16:00:00 SPY Buy Signal - Entering Market on 2020-07-01 16:00:00 | Short MA: 290.69436396, Long MA: 277.9206767018333, Difference: 4.60%, Buy Threshold: 3.57%
+2022-01-27 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2022-01-27 16:00:00 | Peak Price: 86.000478016, Current Price: 50.06421862
+2022-02-28 16:00:00 TQQQ Reentry - Reentering Market on 2022-02-28 16:00:00 with Slower Long-Term Uptrend | Fast MA: 69.53175148361, Slow MA: 59.28174482000333
+2022-04-29 16:00:00 TQQQ Drawdown Stop-Loss Triggered - Exiting Market on 2022-04-29 16:00:00 | Peak Price: 60.754813015, Current Price: 35.470246435
 2022-05-09 16:00:00 SPY Trailing Stop-Loss Triggered - Exiting Market on 2022-05-09 16:00:00 | Trailing Stop Price: 391.10687369174997, Current Price: 384.705005476
-2022-06-01 16:00:00 Capital Preservation Mode Activated on 2022-06-01 16:00:00
-2022-07-01 16:00:00 Capital Preservation Mode Activated on 2022-07-01 16:00:00
-2022-08-01 16:00:00 Capital Preservation Mode Activated on 2022-08-01 16:00:00
-2022-09-01 16:00:00 Capital Preservation Mode Activated on 2022-09-01 16:00:00
-2022-10-03 16:00:00 Capital Preservation Mode Activated on 2022-10-03 16:00:00
-2022-11-01 16:00:00 Capital Preservation Mode Activated on 2022-11-01 16:00:00
-2022-12-01 16:00:00 Capital Preservation Mode Activated on 2022-12-01 16:00:00
-2023-01-03 16:00:00 Capital Preservation Mode Activated on 2023-01-03 16:00:00
-2023-02-01 16:00:00 Capital Preservation Mode Activated on 2023-02-01 16:00:00
-2023-03-01 16:00:00 Capital Preservation Mode Activated on 2023-03-01 16:00:00
-2023-04-03 16:00:00 Capital Preservation Mode Activated on 2023-04-03 16:00:00
-2023-05-01 16:00:00 Capital Preservation Mode Activated on 2023-05-01 16:00:00
-2023-06-01 16:00:00 Capital Preservation Mode Activated on 2023-06-01 16:00:00
+2022-12-01 16:00:00 SPY Buy Signal - Entering Market on 2022-12-01 16:00:00 | Short MA: 397.220195008, Long MA: 378.4743806798333, Difference: 4.95%, Buy Threshold: 3.47%
 2023-06-14 16:00:00 TQQQ Reentry - Reentering Market on 2023-06-14 16:00:00 with Slower Long-Term Uptrend | Fast MA: 26.65855725568, Slow MA: 26.585840010896668
-2023-07-03 13:00:00 Capital Preservation Mode Activated on 2023-07-03 13:00:00
-2023-08-01 16:00:00 Capital Preservation Mode Activated on 2023-08-01 16:00:00
-2023-09-01 16:00:00 Capital Preservation Mode Activated on 2023-09-01 16:00:00
-2023-10-02 16:00:00 Capital Preservation Mode Activated on 2023-10-02 16:00:00
-2023-11-01 16:00:00 Capital Preservation Mode Activated on 2023-11-01 16:00:00
-2023-12-01 16:00:00 Capital Preservation Mode Activated on 2023-12-01 16:00:00
-2024-01-02 16:00:00 Capital Preservation Mode Activated on 2024-01-02 16:00:00
-2024-02-01 16:00:00 Capital Preservation Mode Activated on 2024-02-01 16:00:00
-2024-03-01 16:00:00 Capital Preservation Mode Activated on 2024-03-01 16:00:00
-2024-04-01 16:00:00 SPY Buy Signal - Entering Market on 2024-04-01 16:00:00 | Short MA: 521.387911494, Long MA: 473.9989443961667, Difference: 10.00%, Buy Threshold: 9.71%
-2024-04-01 16:00:00 Capital Preservation Mode Activated on 2024-04-01 16:00:00
-2024-05-01 16:00:00 Capital Preservation Mode Activated on 2024-05-01 16:00:00
-2024-06-03 16:00:00 Capital Preservation Mode Activated on 2024-06-03 16:00:00
-2024-06-28 16:00:00 End of algorithm - Total Market Entries in SPY: 3
-2024-06-28 16:00:00 End of algorithm - Total Market Entries in TQQQ: 2
-2024-06-28 16:00:00 Total SPY Profit: 334723.049281564
-2024-06-28 16:00:00 Total TQQQ Profit: 5691602.00441253
-2024-06-28 16:00:00 Total Portfolio Value: 6184026.926822299
-2024-06-28 16:00:00 Algorithm Id:(041c2eb67fabd7b6208cdf4e38f3e57d) completed in 0.90 seconds at 37k data points per second. Processing total of 33,177 data points.
+2024-06-28 16:00:00 End of algorithm - Total Market Entries in SPY: 4
+2024-06-28 16:00:00 End of algorithm - Total Market Entries in TQQQ: 7
+2024-06-28 16:00:00 Total Profit from SPY: $277964.22
+2024-06-28 16:00:00 Total Profit from TQQQ: $1533528.22
+2024-06-28 16:00:00 Algorithm Id:(1dd780d6065c541bf33fcb2635b263eb) completed in 1.30 seconds at 26k data points per second. Processing total of 33,177 data points.
 2024-06-28 16:00:00 Due to numerical precision issues in the factor file, data for the following symbols was adjust to a later starting date: [TQQQ, 2/10/2010]
 2024-06-28 16:00:00 The starting dates for the following symbols have been adjusted to match their map files first date: [TQQQ, 2010-02-11]
