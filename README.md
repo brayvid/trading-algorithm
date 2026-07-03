@@ -111,3 +111,7 @@ The flexibility provided by this algorithm allows users to adjust key parameters
 
 <img width=100% src="images/tqqq_buy_and_hold_returns.png">
 <img width=100% src="images/tqqq_buy_and_hold_drawdowns.png">
+
+---
+
+<p align="center">&copy; Copyright 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
