@@ -31,15 +31,7 @@ Both SPY and TQQQ include major U.S. technology companies as their top holdings.
 
 ## Project History
 
-### 1. **Initial Machine Learning Approach**
-
-I initially set out to create a machine learning model to predict significant bear markets. The model was intended to be trained on quarterly price data and macroeconomic factors such as GDP and unemployment rates.
-   
-This approach encountered significant challenges due to insufficient data and complexities in training the model within QuantConnect. The lack of enough data led to runtime errors and an inability to effectively train and test the model.
-   
-Due to these challenges, I decided to transition from a machine learning-based approach to a more straightforward rule-based algorithm.
-
-### 2. **Transition to Rule-Based Algorithms**
+### 1. **Rules-Based Algorithm**
 
 #### **SPY Dynamic Threshold Strategy**
 I developed a dynamic threshold algorithm for SPY that uses moving average crossovers to generate buy and sell signals. The thresholds for these signals are adjusted dynamically based on the market’s volatility (ATR) and momentum (RSI). After significant drawdowns, the strategy becomes more conservative in reentering the market, using increased thresholds for both buy and sell signals.
@@ -58,13 +50,13 @@ I developed a dynamic threshold algorithm for SPY that uses moving average cross
    - **Sell Signal:** I maintained the drawdown-based exit strategy, ensuring protection against large losses in TQQQ.
    - The TQQQ portion of the strategy is primarily intended as a buy-and-hold strategy, with exits only during significant drawdowns to manage risk.
 
-### 3. **Parameter Optimization**
+### 2. **Parameter Optimization**
 
 #### **Key Parameters Identified for Optimization:**
 - **`allocation_spy`:** The percentage of the budget reserved for investment in SPY. The remaining percentage is allocated to TQQQ.
 - **`tqqq_drawdown_threshold`:** The percentage drop from the peak price that triggers an exit from TQQQ. This parameter was crucial for managing the high volatility of TQQQ.
 
-### 4. **Performance Results**
+### 3. **Performance Results**
 
 The flexibility provided by this algorithm allows users to adjust key parameters to tailor the strategy to their specific risk tolerance and investment objectives. These parameters significantly impact the balance between risk and return, as demonstrated by the backtest results above at each end of the spectrum.
 
